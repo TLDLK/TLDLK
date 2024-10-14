@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Noah, a student at Cedar Grove-Belgium High School.
+
+I'm currently working on some projects for our AP Computer Science A class, notably the [codinggame.com](https;//codinggame.com) [Mad Pod Racing](https://www.codingame.com/ide/puzzle/mad-pod-racing) game.
 
 <!--
 **TLDLK/TLDLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
